@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**milladmdj/milladmdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oiii eu sou a Milla :) ✨✨✨
 
-Here are some ideas to get you started:
+- ❤ programação por livre 
+e espontanea pressão😋🤞🤞
+- ❤ leitora nas horas vagas 
+- ❤ não posto nada no github,
+mas ta aí né
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ 
+ 
+    
+   
+    
+   ## 
+   
+ <div>  
+   
+  <a href="https://www.twitch.tv/pami_dmdj" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"  target="_blank"></a> <div>
+  <a href="https://discord.gg/milla_dmdj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+  <div>
+   
+  <a href = "mailto:camilasantos200511@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div>
+ <img align="right" alt="Milla" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/879801260331659265/952318881228271616/picasion.com_d38145e1a2a49a653f11f03f2bb5ee57.gif">
+  <div> 
+   
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)              
+                                                                                                                                   
+   
+ </div>
